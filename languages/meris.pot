@@ -1,0 +1,1282 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: meris 1.0.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-24 17:52+0800\n"
+"PO-Revision-Date: 2014-10-24 17:52+0800\n"
+"Last-Translator: shijun quan <support@mageewp.com>\n"
+"Language-Team: Magee <support@mageewp.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: themes\\meris\\\n"
+
+#: meris\/admin/includes/class-options-framework-admin.php:64
+#, php-format
+msgid ""
+"Your current theme does not have support for the Options Framework plugin.  "
+"<a href=\"%1$s\" target=\"_blank\">Learn More</a> | <a href=\"%2$s\">Hide "
+"Notice</a>"
+msgstr ""
+
+#: meris\/admin/includes/class-options-framework-admin.php:121
+#: meris\/admin/includes/class-options-framework-admin.php:122
+msgid "Theme Options"
+msgstr ""
+
+#: meris\/admin/includes/class-options-framework-admin.php:246
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: meris\/admin/includes/class-options-framework-admin.php:279
+msgid "Default options restored."
+msgstr ""
+
+#: meris\/admin/includes/class-options-framework-admin.php:333
+msgid "Options saved."
+msgstr ""
+
+#: meris\/admin/includes/class-options-interface.php:474
+#: meris\/includes/theme-functions.php:383
+msgid "choose column"
+msgstr ""
+
+#: meris\/admin/includes/class-options-interface.php:475
+msgid "1 column"
+msgstr ""
+
+#: meris\/admin/includes/class-options-interface.php:476
+msgid "2 columns"
+msgstr ""
+
+#: meris\/admin/includes/class-options-interface.php:477
+msgid "3 columns"
+msgstr ""
+
+#: meris\/admin/includes/class-options-interface.php:478
+msgid "4 columns"
+msgstr ""
+
+#: meris\/admin/includes/class-options-interface.php:480
+msgid "Widget Area Name"
+msgstr ""
+
+#: meris\/admin/includes/class-options-interface.php:485
+msgid "Add Item"
+msgstr ""
+
+#: meris\/admin/includes/class-options-media-uploader.php:63
+#: meris\/includes/theme-functions.php:338
+msgid "No file chosen"
+msgstr ""
+
+#: meris\/admin/includes/class-options-media-uploader.php:66
+#: meris\/admin/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr ""
+
+#: meris\/admin/includes/class-options-media-uploader.php:68
+#: meris\/admin/includes/class-options-media-uploader.php:120
+#: meris\/includes/theme-functions.php:303
+#: meris\/includes/theme-functions.php:313
+msgid "Remove"
+msgstr ""
+
+#: meris\/admin/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: meris\/admin/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:241
+msgid "No Repeat"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:242
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:243
+msgid "Repeat Vertically"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:244
+msgid "Repeat All"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:257
+msgid "Top Left"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:258
+msgid "Top Center"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:259
+msgid "Top Right"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:260
+msgid "Middle Left"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:261
+msgid "Middle Center"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:262
+msgid "Middle Right"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:263
+msgid "Bottom Left"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:264
+msgid "Bottom Center"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:265
+msgid "Bottom Right"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:278
+msgid "Scroll Normally"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:279
+msgid "Fixed in Place"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:353
+msgid "Normal"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:354
+msgid "Italic"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:355
+msgid "Bold"
+msgstr ""
+
+#: meris\/admin/includes/class-options-sanitization.php:356
+msgid "Bold Italic"
+msgstr ""
+
+#: meris\/comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: meris\/comments.php:21
+msgid "No comment"
+msgstr ""
+
+#: meris\/comments.php:21
+msgid "Has one comment"
+msgstr ""
+
+#: meris\/comments.php:21
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: meris\/comments.php:21
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr ""
+
+#: meris\/comments.php:22
+msgid "You can "
+msgstr ""
+
+#: meris\/comments.php:22
+msgid "leave a reply"
+msgstr ""
+
+#: meris\/comments.php:22
+msgid " or "
+msgstr ""
+
+#: meris\/comments.php:22
+msgid "Trackback"
+msgstr ""
+
+#: meris\/comments.php:22
+msgid "this post."
+msgstr ""
+
+#: meris\/comments.php:34
+msgid "Comment pages"
+msgstr ""
+
+#: meris\/comments.php:64
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: meris\/comments.php:77
+msgid "Your email address will not be published."
+msgstr ""
+
+#: meris\/comments.php:80
+msgid "Write a Reply or Comment"
+msgstr ""
+
+#: meris\/content-article.php:14
+#: meris\/includes/theme-functions.php:313
+#: meris\/single.php:69
+msgid "Edit"
+msgstr ""
+
+#: meris\/content-article.php:26
+#: meris\/includes/theme-widget.php:1371
+msgid "Read More"
+msgstr ""
+
+#: meris\/functions.php:102
+#: meris\/includes/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: meris\/functions.php:103
+#: meris\/includes/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: meris\/functions.php:104
+#: meris\/includes/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: meris\/functions.php:105
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: meris\/functions.php:116
+#: meris\/includes/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: meris\/functions.php:117
+#: meris\/includes/class-tgm-plugin-activation.php:212
+#: meris\/includes/class-tgm-plugin-activation.php:1965
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: meris\/functions.php:118
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: meris\/includes/admin-options.php:50
+msgid "General Options"
+msgstr ""
+
+#: meris\/includes/admin-options.php:54
+msgid "Upload Logo"
+msgstr ""
+
+#: meris\/includes/admin-options.php:60
+msgid "Favicon"
+msgstr ""
+
+#: meris\/includes/admin-options.php:61
+msgid ""
+"An icon associated with a URL that is variously displayed, as in a browser's "
+"address bar or next to the site name in a bookmark list. Learn more about <a "
+"href=\""
+msgstr ""
+
+#: meris\/includes/admin-options.php:66
+#, fuzzy
+msgid "Global Color"
+msgstr "全局颜色"
+
+#: meris\/includes/admin-options.php:72
+#, fuzzy
+msgid "404 Page Content"
+msgstr "首页分栏"
+
+#: meris\/includes/admin-options.php:79
+msgid "Custom CSS"
+msgstr ""
+
+#: meris\/includes/admin-options.php:80
+msgid ""
+"The following css code will add to the header before the closing &lt;/"
+"head&gt; tag."
+msgstr ""
+
+#: meris\/includes/admin-options.php:196
+#, fuzzy
+msgid "Home Page"
+msgstr "首页分栏"
+
+#: meris\/includes/admin-options.php:200
+#, fuzzy
+msgid "Enable Home Page Layout"
+msgstr "首页分栏"
+
+#: meris\/includes/admin-options.php:201
+#, fuzzy
+msgid "Active custom home page layout. "
+msgstr "首页分栏"
+
+#: meris\/includes/admin-options.php:206
+#, fuzzy
+msgid "Background Video"
+msgstr "全局颜色"
+
+#: meris\/includes/admin-options.php:208
+msgid "HTML5 Video Background Options"
+msgstr ""
+
+#: meris\/includes/admin-options.php:210
+msgid "Mp4 Video Url"
+msgstr ""
+
+#: meris\/includes/admin-options.php:210
+msgid "For Android devices, Internet Explorer 9, Safari"
+msgstr ""
+
+#: meris\/includes/admin-options.php:211
+msgid "Ogv Video Url"
+msgstr ""
+
+#: meris\/includes/admin-options.php:211
+#: meris\/includes/admin-options.php:212
+msgid "For Google Chrome, Mozilla Firefox, Opera "
+msgstr ""
+
+#: meris\/includes/admin-options.php:212
+msgid "Webm Video Url"
+msgstr ""
+
+#: meris\/includes/admin-options.php:213
+msgid "Poster"
+msgstr ""
+
+#: meris\/includes/admin-options.php:213
+msgid ""
+"Displaying the image for browsers that don't support the HTML5 video element."
+msgstr ""
+
+#: meris\/includes/admin-options.php:214
+#: meris\/includes/admin-options.php:319
+#: meris\/includes/admin-options.php:326
+#: meris\/includes/admin-options.php:333
+#: meris\/includes/admin-options.php:340
+#: meris\/includes/admin-options.php:347
+msgid "Text"
+msgstr ""
+
+#: meris\/includes/admin-options.php:215
+msgid "Video Loop"
+msgstr ""
+
+#: meris\/includes/admin-options.php:216
+msgid "Content Padding"
+msgstr ""
+
+#: meris\/includes/admin-options.php:230
+#, fuzzy
+msgid "Home Page Banner"
+msgstr "首页分栏"
+
+#: meris\/includes/admin-options.php:242
+#, fuzzy
+msgid "Home Page Sections"
+msgstr "首页分栏"
+
+#: meris\/includes/admin-options.php:251
+msgid "Header"
+msgstr ""
+
+#: meris\/includes/admin-options.php:256
+msgid "Enable Header Search Form"
+msgstr ""
+
+#: meris\/includes/admin-options.php:257
+msgid "Display search form in header."
+msgstr ""
+
+#: meris\/includes/admin-options.php:263
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: meris\/includes/admin-options.php:264
+msgid "Active Sticky Header"
+msgstr ""
+
+#: meris\/includes/admin-options.php:270
+msgid "Upload Sticky Logo"
+msgstr ""
+
+#: meris\/includes/admin-options.php:276
+msgid "Display Site Name"
+msgstr ""
+
+#: meris\/includes/admin-options.php:277
+msgid "Display site name in sticky header"
+msgstr ""
+
+#: meris\/includes/admin-options.php:284
+msgid "Footer"
+msgstr ""
+
+#: meris\/includes/admin-options.php:290
+#, php-format
+msgid "Social Icon #%s"
+msgstr ""
+
+#: meris\/includes/admin-options.php:296
+#, php-format
+msgid "Social Link #%s"
+msgstr ""
+
+#: meris\/includes/admin-options.php:300
+msgid "Copyright"
+msgstr ""
+
+#: meris\/includes/admin-options.php:307
+msgid "Slider"
+msgstr ""
+
+#: meris\/includes/admin-options.php:311
+msgid "Slideshow"
+msgstr ""
+
+#: meris\/includes/admin-options.php:313
+msgid "Slide 1"
+msgstr ""
+
+#: meris\/includes/admin-options.php:314
+#: meris\/includes/admin-options.php:324
+#: meris\/includes/admin-options.php:331
+#: meris\/includes/admin-options.php:338
+#: meris\/includes/admin-options.php:345
+msgid "Image"
+msgstr ""
+
+#: meris\/includes/admin-options.php:320
+#: meris\/includes/admin-options.php:327
+#: meris\/includes/admin-options.php:334
+#: meris\/includes/admin-options.php:341
+#: meris\/includes/admin-options.php:348
+msgid "Link"
+msgstr ""
+
+#: meris\/includes/admin-options.php:323
+msgid "Slide 2"
+msgstr ""
+
+#: meris\/includes/admin-options.php:330
+msgid "Slide 3"
+msgstr ""
+
+#: meris\/includes/admin-options.php:337
+msgid "Slide 4"
+msgstr ""
+
+#: meris\/includes/admin-options.php:344
+msgid "Slide 5"
+msgstr ""
+
+#: meris\/includes/admin-options.php:360
+msgid "Slide Time"
+msgstr ""
+
+#: meris\/includes/admin-options.php:363
+msgid ""
+"Milliseconds between the end of the sliding effect and the start of the nex "
+"one."
+msgstr ""
+
+#: meris\/includes/class-breadcrumb.php:29
+#: meris\/includes/class-breadcrumb.php:196
+#, fuzzy
+msgid "Home"
+msgstr "首页"
+
+#: meris\/includes/class-breadcrumb.php:130
+#, fuzzy
+msgid "404 - Page not Found"
+msgstr "首页分栏"
+
+#: meris\/includes/class-breadcrumb.php:132
+msgid "Search"
+msgstr ""
+
+#: meris\/includes/class-breadcrumb.php:193
+msgid "You are here:"
+msgstr ""
+
+#: meris\/includes/class-breadcrumb.php:398
+msgid "g:i a"
+msgstr ""
+
+#: meris\/includes/class-breadcrumb.php:401
+#, php-format
+msgid "Minute %1$s"
+msgstr ""
+
+#: meris\/includes/class-breadcrumb.php:401
+msgid "i"
+msgstr ""
+
+#: meris\/includes/class-breadcrumb.php:404
+msgid "g a"
+msgstr ""
+
+#: meris\/includes/class-breadcrumb.php:415
+#: meris\/includes/class-breadcrumb.php:421
+#: meris\/includes/class-breadcrumb.php:426
+#: meris\/includes/class-breadcrumb.php:431
+msgid "Y"
+msgstr ""
+
+#: meris\/includes/class-breadcrumb.php:416
+#: meris\/includes/class-breadcrumb.php:427
+msgid "F"
+msgstr ""
+
+#: meris\/includes/class-breadcrumb.php:417
+msgid "j"
+msgstr ""
+
+#: meris\/includes/class-breadcrumb.php:422
+#, php-format
+msgid "Week %1$s"
+msgstr ""
+
+#: meris\/includes/class-breadcrumb.php:438
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: meris\/includes/class-breadcrumb.php:442
+msgid "404 Not Found"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:556
+#: meris\/includes/class-tgm-plugin-activation.php:2182
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1186
+msgid "Private Repository"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1189
+msgid "Pre-Packaged"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1194
+msgid "WordPress Repository"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1197
+msgid "Required"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1197
+msgid "Recommended"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1200
+msgid "Not Installed"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1202
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1304
+#: meris\/includes/class-tgm-plugin-activation.php:1412
+msgid "Install"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1326
+#: meris\/includes/class-tgm-plugin-activation.php:1413
+msgid "Activate"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1375
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1391
+msgid "Plugin"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1392
+msgid "Source"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1393
+msgid "Type"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1394
+msgid "Status"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1522
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1630
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1948
+msgid "Install package not available."
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1949
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1950
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1951
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1952
+msgid "Plugin install failed."
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1953
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:1964
+msgid "Plugin activation failed."
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:2078
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:2079
+#: meris\/includes/class-tgm-plugin-activation.php:2088
+msgid "Show Details"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:2079
+#: meris\/includes/class-tgm-plugin-activation.php:2088
+msgid "Hide Details"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:2080
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:2085
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:2086
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:2087
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:2088
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:2089
+msgid "All installations have been completed."
+msgstr ""
+
+#: meris\/includes/class-tgm-plugin-activation.php:2090
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: meris\/includes/metabox-options.php:36
+msgid "Meris Metabox Options"
+msgstr ""
+
+#: meris\/includes/metabox-options.php:118
+msgid "Show Breadcrumb :"
+msgstr ""
+
+#: meris\/includes/metabox-options.php:120
+msgid "Yes"
+msgstr ""
+
+#: meris\/includes/metabox-options.php:120
+msgid "No"
+msgstr ""
+
+#: meris\/includes/metabox-options.php:131
+msgid "Choose Sidebar Layout :"
+msgstr ""
+
+#: meris\/includes/metabox-options.php:134
+msgid "right"
+msgstr ""
+
+#: meris\/includes/metabox-options.php:135
+msgid "left"
+msgstr ""
+
+#: meris\/includes/metabox-options.php:136
+msgid "both"
+msgstr ""
+
+#: meris\/includes/metabox-options.php:137
+msgid "none"
+msgstr ""
+
+#: meris\/includes/theme-functions.php:29
+msgid "Please enter your name."
+msgstr ""
+
+#: meris\/includes/theme-functions.php:37
+msgid "Please enter your email address."
+msgstr ""
+
+#: meris\/includes/theme-functions.php:41
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: meris\/includes/theme-functions.php:50
+msgid "Please enter a message."
+msgstr ""
+
+#: meris\/includes/theme-functions.php:78
+msgid "Your message has been successfully sent!"
+msgstr ""
+
+#: meris\/includes/theme-functions.php:149
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: meris\/includes/theme-functions.php:150
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: meris\/includes/theme-functions.php:150
+msgid "(Edit)"
+msgstr ""
+
+#: meris\/includes/theme-functions.php:153
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: meris\/includes/theme-functions.php:318
+msgid "Background"
+msgstr ""
+
+#: meris\/includes/theme-functions.php:369
+msgid "Layout"
+msgstr ""
+
+#: meris\/includes/theme-functions.php:370
+msgid "boxed"
+msgstr ""
+
+#: meris\/includes/theme-functions.php:371
+msgid "full width"
+msgstr ""
+
+#: meris\/includes/theme-functions.php:376
+msgid "Padding top & bottom"
+msgstr ""
+
+#: meris\/includes/theme-functions.php:382
+msgid "Column"
+msgstr ""
+
+#: meris\/includes/theme-functions.php:386
+msgid "columns"
+msgstr ""
+
+#: meris\/includes/theme-functions.php:388
+msgid "column"
+msgstr ""
+
+#: meris\/includes/theme-functions.php:401
+#, php-format
+msgid "Column %s width"
+msgstr ""
+
+#: meris\/includes/theme-functions.php:437
+msgid "Quick Links"
+msgstr ""
+
+#: meris\/includes/theme-setup.php:35
+msgid "Primary Menu"
+msgstr ""
+
+#: meris\/includes/theme-setup.php:260
+#: meris\/includes/theme-setup.php:261
+msgid "Meris Options"
+msgstr ""
+
+#: meris\/includes/theme-setup.php:282
+#, fuzzy, php-format
+msgid " Page %s "
+msgstr "首页分栏"
+
+#: meris\/includes/theme-widget.php:171
+#, fuzzy
+msgid "Display pages as service."
+msgstr "首页分栏"
+
+#: meris\/includes/theme-widget.php:173
+#: meris\/includes/theme-widget.php:294
+msgid "Meris: Service"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:189
+#, fuzzy, php-format
+msgid "Color %s"
+msgstr "全局颜色"
+
+#: meris\/includes/theme-widget.php:190
+msgid "Font Awesome Icon Color"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:194
+#, php-format
+msgid "Icon %s"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:195
+#: meris\/includes/theme-widget.php:307
+msgid "Font Awesome Icon or Image Url"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:198
+#: meris\/includes/theme-widget.php:505
+#, fuzzy, php-format
+msgid "Page  %s"
+msgstr "首页分栏"
+
+#: meris\/includes/theme-widget.php:278
+#: meris\/includes/theme-widget.php:349
+msgid "Read More>>"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:292
+#, fuzzy
+msgid "Display page as service."
+msgstr "首页分栏"
+
+#: meris\/includes/theme-widget.php:306
+msgid "Icon"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:311
+#: meris\/includes/theme-widget.php:608
+#: meris\/includes/theme-widget.php:867
+#, fuzzy
+msgid "Page"
+msgstr "首页分栏"
+
+#: meris\/includes/theme-widget.php:365
+msgid "Divider for each row."
+msgstr ""
+
+#: meris\/includes/theme-widget.php:367
+msgid "Meris: Divider"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:377
+msgid "Height"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:409
+msgid "slogan widget"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:411
+msgid "Meris: Slogan"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:420
+#, fuzzy
+msgid "Color"
+msgstr "全局颜色"
+
+#: meris\/includes/theme-widget.php:424
+#: meris\/includes/theme-widget.php:678
+#: meris\/includes/theme-widget.php:809
+msgid "Title"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:428
+#: meris\/includes/theme-widget.php:1201
+msgid "Content"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:489
+msgid "Display pages as portfolio. Best for homepage section three "
+msgstr ""
+
+#: meris\/includes/theme-widget.php:491
+#: meris\/includes/theme-widget.php:598
+msgid "Meris: Portfolio"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:596
+#, fuzzy
+msgid "Display page as portfolio."
+msgstr "首页分栏"
+
+#: meris\/includes/theme-widget.php:668
+msgid "Meris: About Us"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:683
+#: meris\/includes/theme-widget.php:814
+msgid "Sub-Title"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:688
+msgid "Description"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:727
+msgid "Contact form"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:729
+msgid "Meris: Contact Form"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:741
+#: meris\/includes/theme-widget.php:773
+msgid "Email"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:746
+msgid "Your email address which use to receive email."
+msgstr ""
+
+#: meris\/includes/theme-widget.php:769
+msgid "Name"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:770
+msgid "YOUR NAME"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:774
+msgid "YOUR E-MAIL"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:777
+msgid "Message"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:778
+msgid "YOUR MESSAGE"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:782
+msgid "SEND MESSAGE"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:797
+msgid "Display section title."
+msgstr ""
+
+#: meris\/includes/theme-widget.php:799
+msgid "Meris: Section Title"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:849
+msgid "Display some pages as slider."
+msgstr ""
+
+#: meris\/includes/theme-widget.php:851
+msgid "Meris: Widget Slider"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:951
+msgid "Display sidebar social network."
+msgstr ""
+
+#: meris\/includes/theme-widget.php:953
+msgid "Meris: Social Network"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:979
+#: meris\/includes/theme-widget.php:1513
+msgid "Social Icon"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:992
+msgid "Social Link"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1038
+msgid "Display popular posts and latest posts tabs."
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1040
+msgid "Meris: Posts Tabs"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1050
+msgid "Popular Posts List Num"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1055
+msgid "Resent Post List Num"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1080
+msgid "Popular Posts"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1081
+msgid "Recent Posts"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1161
+msgid "Testimonial"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1163
+msgid "Meris: Testimonial"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1178
+msgid "Author"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1182
+#: meris\/includes/theme-widget.php:1500
+msgid "Avatar"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1186
+msgid "Rating"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1292
+msgid "Blog List"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1294
+msgid "Meris: Blog List"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1303
+msgid "List Num"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1392
+msgid "Carousel"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1394
+msgid "Meris: Carousel"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1407
+msgid "Display Num"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1424
+msgid "Image URL"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1472
+msgid "Team"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1474
+msgid "Meris: Team"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1495
+msgid "Member Name"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1504
+msgid "Byline"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1514
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1517
+msgid "Icon Link"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1527
+msgid "Short Description"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1585
+msgid "Progress bar."
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1587
+msgid "Meris: Progress Bar"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1603
+#, php-format
+msgid "Title %s"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1606
+msgid "Pogress %i"
+msgstr ""
+
+#: meris\/includes/theme-widget.php:1607
+msgid "Number ( 1 - 100 )"
+msgstr ""
+
+#: meris\/page.php:63
+#: meris\/single.php:78
+msgid "Pages:"
+msgstr ""
+
+#: meris\/search.php:26
+msgid "No results found"
+msgstr ""
+
+#, fuzzy
+#~ msgid ""
+#~ " \" in the backend's \"General Settings\" (top right panel). <br> <br> Or "
+#~ "add the current page to the \""
+#~ msgstr "首页分栏"
+
+#, fuzzy
+#~ msgid "The duplicate successfully, refreshing page..."
+#~ msgstr "首页分栏"
+
+#, fuzzy
+#~ msgid "The operation successfully, refreshing page..."
+#~ msgstr "首页分栏"
+
+#, fuzzy
+#~ msgid "Displays a revolution slider on the page"
+#~ msgstr "首页分栏"
+
+#, fuzzy
+#~ msgid "Color:"
+#~ msgstr "全局颜色"
+
+#, fuzzy
+#~ msgid "Global Style Editor"
+#~ msgstr "全局颜色"
+
+#, fuzzy
+#~ msgid ""
+#~ "Specify the page id's that the front end includes will be included in. "
+#~ "Example: 2,3,5 also: homepage,3,4"
+#~ msgstr "首页分栏"
+
+#, fuzzy
+#~ msgid "Position on the page"
+#~ msgstr "首页分栏"
+
+#, fuzzy
+#~ msgid ""
+#~ "The position of the slider on the page, (float:left, float:right, "
+#~ "margin:0px auto;)"
+#~ msgstr "首页分栏"
+
+#, fuzzy
+#~ msgid ""
+#~ "Slider wrapper div background color, for transparent slider, leave empty."
+#~ msgstr "全局颜色"
+
+#, fuzzy
+#~ msgid ""
+#~ "The wrapper div padding, if it has value, then together with background "
+#~ "color it it will make border around the slider."
+#~ msgstr "全局颜色"
+
+#, fuzzy
+#~ msgid ""
+#~ "You can find API key by visiting your Envato Account page, then clicking "
+#~ "the My Settings tab. At the bottom of he page you will find your accounts "
+#~ "API key."
+#~ msgstr "首页分栏"
+
+#, fuzzy
+#~ msgid " this page."
+#~ msgstr "首页分栏"
+
+#, fuzzy
+#~ msgid "Caption Sharp Corners (optional only with BG color)"
+#~ msgstr "全局颜色"
+
+#, fuzzy
+#~ msgid "Global Settings"
+#~ msgstr "全局颜色"
+
+#, fuzzy
+#~ msgid "page and/or post editor"
+#~ msgstr "首页分栏"
